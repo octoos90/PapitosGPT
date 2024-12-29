@@ -7,6 +7,7 @@ PapitosGPT is an iOS chatbot application powered by OpenAI's GPT models (GPT-3.5
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Add OpenAI API Key](#add-openai-api-key)
@@ -35,6 +36,11 @@ PapitosGPT is an iOS chatbot application powered by OpenAI's GPT models (GPT-3.5
 ### Scalable MVVM Architecture
 - Clean separation of concerns between UI, business logic, and data management.
 
+---
+
+## Demo
+
+![Demo](assets/demo.gif)
 ---
 
 ## Setup
